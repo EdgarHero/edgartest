@@ -3,7 +3,4 @@
 test
 0903
 
-你好
-21521514215
-
-vsdfsdgfdfg 
+helloword
